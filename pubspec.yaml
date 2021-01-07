@@ -1,0 +1,13 @@
+name: ficcanaso
+description: ficcanaso analyzer.
+version: 0.0.1
+author: dbbd59
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  pedantic: ^1.9.2
