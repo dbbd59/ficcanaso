@@ -1,7 +1,7 @@
 name: ficcanaso
 description: ficcanaso analyzer.
 version: 1.0.0
-author: dbbd59
+repository: https://github.com/dbbd59/ficcanaso
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
