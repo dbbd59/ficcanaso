@@ -1,3 +1,11 @@
+# [2.0.1] - 07/03/21
+
+- update readme
+
+# [2.0.0] - 07/03/21
+
+- null safety migration
+
 # [1.0.1] - 07/01/21
 
 - fix for pub score.

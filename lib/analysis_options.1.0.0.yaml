@@ -46,7 +46,6 @@ linter:
     - prefer_spread_collections
     - recursive_getters
     - slash_for_doc_comments
-    - sort_pub_dependencies
     - type_init_formals
     - unawaited_futures
     - unnecessary_await_in_return
