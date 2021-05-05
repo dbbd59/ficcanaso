@@ -6,7 +6,7 @@ To use the lints add a dependency in your `pubspec.yaml`:
 
 ```yaml
 dev_dependencies:
-  ficcanaso: ^2.0.1
+  ficcanaso: ^2.0.3
 ```
 
 then, add an include in your `analysis_options.yaml`
