@@ -1,3 +1,7 @@
+# [2.0.2] - 07/03/21
+
+- update lint rules
+
 # [2.0.1] - 07/03/21
 
 - update readme

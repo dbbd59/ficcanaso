@@ -3,6 +3,7 @@ linter:
     - always_declare_return_types
     - always_require_non_null_named_parameters
     - annotate_overrides
+    - avoid_dynamic_calls
     - avoid_empty_else
     - avoid_init_to_null
     - avoid_null_checks_in_equality_operators
@@ -15,6 +16,7 @@ linter:
     - avoid_unused_constructor_parameters
     - await_only_futures
     - camel_case_extensions
+    - camel_case_types
     - cancel_subscriptions
     - curly_braces_in_flow_control_structures
     - directives_ordering
@@ -23,6 +25,7 @@ linter:
     - exhaustive_cases
     - library_names
     - library_prefixes
+    - list_remove_unrelated_type
     - missing_whitespace_between_adjacent_strings
     - no_duplicate_case_values
     - null_closures
@@ -46,6 +49,7 @@ linter:
     - prefer_spread_collections
     - recursive_getters
     - slash_for_doc_comments
+    - sort_child_properties_last
     - type_init_formals
     - unawaited_futures
     - unnecessary_await_in_return
