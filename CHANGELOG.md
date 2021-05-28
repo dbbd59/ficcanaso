@@ -1,3 +1,11 @@
+# [2.0.5] - 26/05/21
+
+- update lint rules
+
+# [2.0.4] - 26/05/21
+
+- update lint rules
+
 # [2.0.3] - 05/05/21
 
 - update lint rules

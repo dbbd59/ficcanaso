@@ -22,6 +22,7 @@ linter:
     - empty_catches
     - empty_constructor_bodies
     - exhaustive_cases
+    - file_names
     - library_names
     - library_prefixes
     - list_remove_unrelated_type
@@ -68,3 +69,4 @@ linter:
 analyzer:
   errors:
     unused_import: error
+  exclude: ["**/graphql/**", "**/*.g.dart", "**/*.freezed.dart"]
