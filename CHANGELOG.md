@@ -1,3 +1,8 @@
+# [2.0.7] - 18/06/21
+
+- removes duplicate lint.
+
+
 # [2.0.6] - 18/06/21
 
 - removes pedantic
