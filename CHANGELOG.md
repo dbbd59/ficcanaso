@@ -1,3 +1,7 @@
+# [2.0.6] - 18/06/21
+
+- removes pedantic
+
 # [2.0.5] - 26/05/21
 
 - update lint rules

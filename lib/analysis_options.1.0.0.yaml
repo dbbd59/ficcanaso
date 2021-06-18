@@ -34,6 +34,8 @@ linter:
     - prefer_collection_literals
     - prefer_conditional_assignment
     - prefer_const_constructors
+    - prefer_const_constructors_in_immutables
+    - prefer_const_declarations
     - prefer_contains
     - prefer_equal_for_default_values
     - prefer_final_fields
@@ -48,6 +50,7 @@ linter:
     - prefer_single_quotes
     - prefer_spread_collections
     - recursive_getters
+    - sized_box_for_whitespace
     - slash_for_doc_comments
     - sort_child_properties_last
     - type_init_formals
@@ -61,7 +64,9 @@ linter:
     - unnecessary_string_interpolations
     - unnecessary_this
     - unrelated_type_equality_checks
+    - use_full_hex_values_for_flutter_colors
     - use_function_type_syntax_for_parameters
+    - use_key_in_widget_constructors
     - use_key_in_widget_constructors
     - use_rethrow_when_possible
     - valid_regexps
