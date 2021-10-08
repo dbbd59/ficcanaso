@@ -3,7 +3,7 @@ analyzer:
     - dart_code_metrics
   errors:
     unused_import: error
-  exclude: ["**/graphql/**", "**/*.g.dart", "**/*.freezed.dart"]
+  exclude: ["**/graphql/**", "**/*.g.dart", "**/*.freezed.dart", "**/*.config.dart", "**/*_localization.dart"]
 
 dart_code_metrics:
   rules:
@@ -15,12 +15,10 @@ dart_code_metrics:
           - public-methods
           - private-methods
     - always-remove-listener
-    - avoid-ignoring-return-values
     - no-empty-block
     - no-equal-then-else
     - no-magic-number
     - prefer-conditional-expressions
-    - prefer-const-border-radius
     - prefer-extracting-callbacks
     - prefer-trailing-comma
 

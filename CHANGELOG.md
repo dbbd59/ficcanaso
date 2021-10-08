@@ -1,5 +1,9 @@
 
-# [3.0.0] - 18/06/21
+# [3.0.1] - 07/10/21
+
+- fix dart_code_metrics.
+
+# [3.0.0] - 07/10/21
 
 - adds dart_code_metrics.
 
