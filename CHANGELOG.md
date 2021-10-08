@@ -1,7 +1,11 @@
+
+# [3.0.0] - 18/06/21
+
+- adds dart_code_metrics.
+
 # [2.0.7] - 18/06/21
 
 - removes duplicate lint.
-
 
 # [2.0.6] - 18/06/21
 
