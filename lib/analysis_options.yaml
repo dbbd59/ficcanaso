@@ -17,7 +17,6 @@ dart_code_metrics:
     - always-remove-listener
     - no-empty-block
     - no-equal-then-else
-    - no-magic-number
     - prefer-conditional-expressions
     - prefer-extracting-callbacks
     - prefer-trailing-comma

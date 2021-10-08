@@ -1,4 +1,8 @@
 
+# [3.0.2] - 07/10/21
+
+- fix dart_code_metrics.
+
 # [3.0.1] - 07/10/21
 
 - fix dart_code_metrics.
