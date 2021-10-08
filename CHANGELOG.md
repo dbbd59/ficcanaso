@@ -1,4 +1,8 @@
 
+# [3.0.3] - 07/10/21
+
+- fix exclude files
+
 # [3.0.2] - 07/10/21
 
 - fix dart_code_metrics.

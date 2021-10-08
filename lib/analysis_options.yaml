@@ -3,7 +3,15 @@ analyzer:
     - dart_code_metrics
   errors:
     unused_import: error
-  exclude: ["**/graphql/**", "**/*.g.dart", "**/*.freezed.dart", "**/*.config.dart", "**/*_localization.dart"]
+  exclude:
+    [
+      "**/graphql/**",
+      "**/*.g.dart",
+      "**/*.freezed.dart",
+      "**/*.config.dart",
+      "**/*.gen.dart",
+      "**/*_localization.dart",
+    ]
 
 dart_code_metrics:
   rules:
