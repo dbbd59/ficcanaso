@@ -1,4 +1,8 @@
 
+# [3.0.6] - 14/10/21
+
+- avoid_dynamic_calls
+
 # [3.0.5] - 14/10/21
 
 - fix: member-ordering-extended
