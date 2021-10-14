@@ -1,4 +1,8 @@
 
+# [3.0.5] - 14/10/21
+
+- fix: member-ordering-extended
+
 # [3.0.4] - 14/10/21
 
 - fix: member-ordering-extended
