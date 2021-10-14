@@ -1,4 +1,8 @@
 
+# [3.0.4] - 14/10/21
+
+- fix: member-ordering-extended
+
 # [3.0.3] - 07/10/21
 
 - fix exclude files

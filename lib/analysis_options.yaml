@@ -16,13 +16,15 @@ analyzer:
 dart_code_metrics:
   rules:
     - member-ordering-extended:
+        alphabetize: true
         order:
-          - fields
           - constructors
+          - fields
           - getters-setters
           - public-methods
           - private-methods
     - always-remove-listener
+    - newline-before-return
     - no-empty-block
     - no-equal-then-else
     - prefer-conditional-expressions
