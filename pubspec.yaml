@@ -1,6 +1,6 @@
 name: ficcanaso
 description: The Dart analyzer settings and best practices used. forked from pedantic
-version: 3.0.6
+version: 3.0.7
 repository: https://github.com/dbbd59/ficcanaso
 
 environment:
