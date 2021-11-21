@@ -1,4 +1,8 @@
 
+# [3.0.8] - 14/10/21
+
+- removes avoid_dynamic_calls
+
 # [3.0.7] - 14/10/21
 
 - remove prefer-extracting-callbacks rule
