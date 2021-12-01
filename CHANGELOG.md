@@ -1,3 +1,7 @@
+# [3.1.0] - 14/10/21
+
+- removes require_trailing_commas
+
 # [3.0.9] - 14/10/21
 
 - require_trailing_commas
