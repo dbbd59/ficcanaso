@@ -81,6 +81,7 @@ linter:
     - prefer_single_quotes
     - prefer_spread_collections
     - recursive_getters
+    - require_trailing_commas
     - sized_box_for_whitespace
     - slash_for_doc_comments
     - sort_child_properties_last
