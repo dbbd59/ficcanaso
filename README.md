@@ -6,7 +6,7 @@ To use the lints add a dependency in your `pubspec.yaml`:
 
 ```yaml
 dev_dependencies:
-  ficcanaso: ^3.1.0
+  ficcanaso: ^3.1.1
   dart_code_metrics: ^4.7.0
 ```
 
