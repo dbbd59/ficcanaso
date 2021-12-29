@@ -1,3 +1,8 @@
+
+# [3.1.2] - 14/10/21
+
+- update license
+
 # [3.1.1] - 14/10/21
 
 - require_trailing_commas
