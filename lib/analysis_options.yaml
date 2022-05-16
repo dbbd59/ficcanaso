@@ -1,8 +1,9 @@
 analyzer:
-  plugins:
-    - dart_code_metrics
   errors:
     unused_import: error
+    close_sinks: ignore
+    missing_required_param: error
+    missing_return: error
   exclude:
     [
       "**/graphql/**",
@@ -10,7 +11,7 @@ analyzer:
       "**/*.freezed.dart",
       "**/*.config.dart",
       "**/*.gen.dart",
-      "**/*_localization.dart",
+      "**/*_localization.dart"
     ]
 
 dart_code_metrics:
@@ -22,7 +23,6 @@ dart_code_metrics:
           - fields
           - public-methods
           - private-methods
-    - always-remove-listener
     - newline-before-return
 
 linter:
@@ -83,6 +83,7 @@ linter:
     - recursive_getters
     - require_trailing_commas
     - sized_box_for_whitespace
+    - sized_box_shrink_expand
     - slash_for_doc_comments
     - sort_child_properties_last
     - sort_pub_dependencies
@@ -90,6 +91,7 @@ linter:
     - type_init_formals
     - unawaited_futures
     - unnecessary_const
+    - unnecessary_late
     - unnecessary_new
     - unnecessary_null_in_if_null_operators
     - unnecessary_parenthesis
@@ -97,8 +99,12 @@ linter:
     - unnecessary_string_interpolations
     - unnecessary_this
     - unrelated_type_equality_checks
+    - use_colored_box
+    - use_decorated_box
+    - use_enums
     - use_full_hex_values_for_flutter_colors
     - use_function_type_syntax_for_parameters
     - use_key_in_widget_constructors
     - use_rethrow_when_possible
+    - use_super_parameters
     - valid_regexps

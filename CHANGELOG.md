@@ -1,4 +1,7 @@
 
+# [4.0.0] - 16/05/22
+
+- update to dart 2.17
 # [3.1.2] - 14/10/21
 
 - update license
