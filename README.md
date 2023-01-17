@@ -1,4 +1,5 @@
 # FICCANASO
+> This linter is designed to improve the quality of your Dart and Flutter code by enforcing a set of rules and best practices.
 
 ## Using the Lints
 
@@ -6,7 +7,7 @@ To use the lints add a dependency in your `pubspec.yaml`:
 
 ```yaml
 dev_dependencies:
-  ficcanaso: ^5.0.0
+  ficcanaso:
 ```
 
 then, add an include in your `analysis_options.yaml`
