@@ -71,9 +71,11 @@ linter:
     - prefer_interpolation_to_compose_strings
     - prefer_is_empty
     - prefer_is_not_empty
+    - prefer_is_not_operator
     - prefer_iterable_whereType
     - prefer_single_quotes
     - prefer_spread_collections
+    - prefer_void_to_null
     - recursive_getters
     - require_trailing_commas
     - sized_box_for_whitespace
@@ -84,7 +86,11 @@ linter:
     - throw_in_finally
     - type_init_formals
     - unawaited_futures
+    - unnecessary_await_in_return
+    - unnecessary_brace_in_string_interps
+    - unnecessary_breaks
     - unnecessary_const
+    - unnecessary_constructor_name
     - unnecessary_late
     - unnecessary_new
     - unnecessary_null_in_if_null_operators
